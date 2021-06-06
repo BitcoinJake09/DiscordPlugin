@@ -1,0 +1,13 @@
+api-version: 1.16
+name: DiscordPlugin
+version: 1.0
+author: The DiscordPlugin Dev Team
+main: com.discordplugin.discordplugin.DiscordPlugin
+description: The DiscordPlugin Open Source Project
+commands:
+  emergencystop:
+    description: "Stops the server cleanly in case of emergency"
+    usage: "/emergencystop [reason]"
+  crashtest:
+    description: "Crashes the plugin on purpose, hell breaks loose. Don't try this at home"
+    usage: "/crashtest"

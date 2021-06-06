@@ -1,0 +1,5 @@
+superuser: null
+# commented until <walletAmount> gets a class getter
+welcomeMessage:
+   <bold><yellow>This server runs DiscordPlugin, Open source code! ^_^<reset>
+
